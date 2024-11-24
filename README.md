@@ -4,6 +4,11 @@ This microservice handles addition of problems and testcases along with solution
 for algocraft platform.
 This service handles doctor appointment booking, fetching doctor appointments, cancel booking, and modifying appointment for the patients.
 
+## Test Coverage
+```
+>80%
+```
+
 To set up the project on your local machine do the following steps:
 
 1. Clone the project
